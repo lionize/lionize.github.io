@@ -4,27 +4,24 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  If you're reading this, please be sure to check out Tessera, an open source alternative to Jira, Bugzilla, etc. It is the focus of all of my hopes and dreams right now. We'd like to create a beautiful, easy-to-use ticketing system to help the masses organize their projects, and we'd love to have you join us!
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Hello! My name is Mark and I do my best to CARRY THE FIRE. I am intent on using my life to GROW LOVE, and I push hard to LIONIZE myself in order to accomplish this outcome.
 
-There are currently two themes built on Poole:
+Valor | Ferocity | Conviction | Strength | Leadership | Heart
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+I currently work for Kroger where we strive to FEED THE HUMAN SPIRIT through giving, partnership, cooperation, and community participation. I am proud to work for a company that aligns itself with creating a better world while enabling me to better myself and achieve personal goals.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## Current Projects
 
-## Setup
+I am currently working on two projects:
 
-Some fun facts about the setup of this project include:
+* [Tessera](https://github.com/chasinglogic/tessera)
+* [Tessera-Client](https://github.com/lionize/tessera-client)
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+## Miscellania
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/lionize/lionize.github.io/issues) or [ask me on Twitter](https://twitter.com/grow_love).
 
 Thanks for reading!
