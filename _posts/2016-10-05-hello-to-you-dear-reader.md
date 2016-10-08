@@ -1,3 +1,7 @@
+---
+layout: post
+title: Hello to you, dear reader.
+---
 Hello to you, dear reader.
 
 Thank you for joining me on this journey through time. Hopefully my thoughts will take you somewhere, enable you to solve problems, avoid pitfalls I've already been through, or simply make you smile.
