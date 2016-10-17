@@ -7,8 +7,7 @@ permalink:           pretty
 title:               GrowLove
 tagline:             'Adaptive Text Repository'
 description:         'A dreamer: lost in an infinitely colorful shifting landscape'
-url:                 https://lionize.github.io
-baseurl:             'https://lionize.github.io'
+url:                 'https://lionize.github.io'
 paginate:            5
 
 # About/contact
